@@ -10,7 +10,7 @@ import { Hero } from "./components/Hero";
 import { About } from "./components/about";
 import { Course } from "./components/Course";
 import { Resources } from "./components/Resource";
-import { Student } from "./components/Student";
+import { Student } from "./components/student";
 
 // Dedicated pages
 import { TextBooks } from "./Pages/TextBooks";
