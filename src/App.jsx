@@ -24,7 +24,7 @@ import Computing from "./Pages/Computing";
 import Study from "./Pages/Study";
 import Quran from "./Pages/Quran";
 import Seerah from "./Pages/Seerah";
-import Misc from "./Pages/Misc";
+import Misc from "./Pages/misc";
 import Sarf from "./Pages/Sarf";
 import Fiqh from "./Pages/Fiqh";
 import Hadith from "./Pages/Hadith";
