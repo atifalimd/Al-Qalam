@@ -7,7 +7,7 @@ import { Footer } from "./components/Footer";
 
 // Landing page sections
 import { Hero } from "./components/Hero";
-import { About } from "./components/About";
+import { About } from "./components/about";
 import { Course } from "./components/Course";
 import { Resources } from "./components/Resource";
 import { Student } from "./components/Student";
