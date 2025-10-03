@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply text-white font-sans;
+    font-family: "Poppins", sans-serif;
+    background-color: #112549;
+  }
+}
+
+@layer components {
+  .container {
+    @apply w-full mt-[40px] px-8;
+  }
+  .sectionHead {
+    @apply font-extralight text-[28px] tracking-[20px] leading-snug mb-6;
+  }
+  .sectionSubHead {
+    @apply font-medium text-[18px] leading-[35px];
+  }
+}
