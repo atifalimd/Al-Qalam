@@ -1,6 +1,6 @@
 import React from "react";
-import book1 from "../images/AtTasreef.png";
-import book2 from "../images/AlWusta.png";
+import book1 from "../images/AtTasreef.webp";
+import book2 from "../images/AlWusta.webp";
 
 /* =====================
    Books Data

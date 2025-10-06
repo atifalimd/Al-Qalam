@@ -1,7 +1,7 @@
 import React from "react";
 import bgCard from "../images/BackGround-Card.png";
-import full from "../images/Full-time-img.png";
-import part from "../images/Part-img.png";
+import full from "../images/Full-time-img.webp";
+import part from "../images/Part-img.webp";
 
 // Reusable CourseCard component
 const CourseCard = ({ image, title, duration, mode, startDate, timings }) => (

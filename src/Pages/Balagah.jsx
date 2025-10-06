@@ -1,5 +1,5 @@
 import React from "react";
-import book1 from "../images/DuroosBalagah.png";
+import book1 from "../images/DuroosBalagah.webp";
 
 /* =====================
    Books Data

@@ -1,5 +1,5 @@
 import React from "react";
-import maulana from "../images/maulana.png";
+import maulana from "../images/maulana.webp";
 
 export const About = () => {
   return (

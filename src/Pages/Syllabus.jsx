@@ -1,7 +1,7 @@
-import BoyFull from "../images/SyllabusBoyFull.png";
-import GirlFull from "../images/SyllabusGirlFull.png";
-import Part from "../images/SyllabusPart.png";
-import Bg from "../images/Student-BG.png";
+import BoyFull from "../images/SyllabusBoyFull.webp";
+import GirlFull from "../images/SyllabusGirlFull.webp";
+import Part from "../images/SyllabusPart.webp";
+import Bg from "../images/Student-BG.webp";
 
 const syllabusCards = [
   { src: BoyFull, alt: "Full-Time Brothers", label: "Full-Time Brothers" },

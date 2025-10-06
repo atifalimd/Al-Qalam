@@ -1,5 +1,5 @@
 import React from "react";
-import heroImg from "../images/Hero-Img.png";
+import heroImg from "../images/Hero-Img.webp";
 import check from "../images/Check Circle.png";
 
 /* Small reusable Subject component */

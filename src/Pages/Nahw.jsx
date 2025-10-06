@@ -1,7 +1,7 @@
 import React from "react";
-import book1 from "../images/Kubra.png";
-import book2 from "../images/AsSughra.png";
-import book3 from "../images/Wusta.png";
+import book1 from "../images/Kubra.webp";
+import book2 from "../images/AsSughra.webp";
+import book3 from "../images/Wusta.webp";
 
 /* Books Data */
 const books = [

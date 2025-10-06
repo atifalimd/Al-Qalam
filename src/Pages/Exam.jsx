@@ -1,5 +1,5 @@
 import React from "react";
-import bgImage from "../images/ExamBg.jpg";
+import bgImage from "../images/ExamBg.webp";
 
 /* ===========================
    Reusable Card Component
